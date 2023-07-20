@@ -1,5 +1,7 @@
 package AlgorithmsAndStructures.lesson_3;
 
+// Необходимо реализовать метод разворота связного списка (двухсвязного или односвязного на выбор).
+
 public class Main {
     public static void main(String[] args) {
         LinkedList list = new LinkedList();
